@@ -25,7 +25,7 @@
         "link": "使用者連結",
     },
     "location": {
-        "geojson": { // 可參考 http://geojson.org/
+        "geojson": { 
             "type": "Point",
             "coordinates": [
                 "經度",
@@ -90,3 +90,9 @@
     "category" : "分類ID"
 }
 ```
+
+### 相關說明
+
+- `geojson` - 可參考 http://geojson.org/
+- `色碼` - 提供佔比例排名的前 64 色
+- 照片全站分類請參考 - https://developer.pixnet.pro/#!/doc/pixnetApi/mainpageAlbumCategories
