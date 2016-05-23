@@ -25,8 +25,6 @@
 * PIXNET Open API
   * 資料簡介：所有公開資料不需要認證即可存取；而要操作私人資訊（例如發表文章）則需要使用 OAuth 做認證，你可以透過報名時填寫的 API Key 存取 PIXNET API 而不受存取次數限制，至於 API 可到開發網站上申請。
   * [API鏈結](https://developer.pixnet.pro/)
-* Open Data
-  * 歡迎結合任何您想得到的開放資料，發揮創意。
 
 ### 評分標準
 ---
